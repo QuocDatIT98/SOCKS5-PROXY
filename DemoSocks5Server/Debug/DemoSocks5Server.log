@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol "struct ICMultithreadedServer * __cdecl CSOCK5SERVER(char * const,int)" (?CSOCK5SERVER@@YAPAUICMultithreadedServer@@QADH@Z) referenced in function _main
+..\Lib\Socks5Server.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\QuocDat\Desktop\DemoSocks5Server\Debug\DemoSocks5Server.exe : fatal error LNK1120: 1 unresolved externals
